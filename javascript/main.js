@@ -1,5 +1,5 @@
 function addDetails() {
-    const detailsDiv = document.querySelector('.details');
+    const detailsDiv = document.querySelectorAll('.details');
     if (detailsDiv) {
         console.log('found');
       const points = Math.floor(Math.random() * 100); // Random points
