@@ -51,9 +51,10 @@ table{
 
 
 .Title p {
-    color: grey;
+    color: #000000;
   }
   
-  .details p {
-    color: grey;
+  .Link, .details p {
+    color: #808080;
   }
+
