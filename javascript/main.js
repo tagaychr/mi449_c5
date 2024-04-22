@@ -1,7 +1,7 @@
 function addDetails() {
   const detailsDivs = document.querySelectorAll('.details');
   detailsDivs.forEach(detailsDiv => {
-      const points = Math.floor(Math.random() * 100); // Random points
+      const points = Math.floor(Math.random() * 2000); // Random points
       const username = 'User'; // Random username
       const hoursAgo = Math.floor(Math.random() * 24); // Random hours ago
       const comments = Math.floor(Math.random() * 50); // Random comments
@@ -14,6 +14,5 @@ function addDetails() {
   });
   }
   
-  // Call the function to add details when needed
   addDetails();
   
