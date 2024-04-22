@@ -57,7 +57,7 @@ table{
     margin: 0;
   }
   
-.Link, .details p {
+p.Link, .details p {
     color: #808080;
 }
 
