@@ -55,8 +55,11 @@ table{
 .Title p {
     color: #000000;
     margin: 0;
+}
+
+#Title{
     font-size: 1.1em;
-  }
+}
   
 p.Link, .details p {
     color: #808080;
@@ -70,4 +73,5 @@ p.Link, .details p {
 .details, .details p{
     margin: 0px 0;
     padding: 0px;
+    font-size: .9em;
 }
