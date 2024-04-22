@@ -41,3 +41,12 @@ table{
     width: 100%;
     
 }
+
+
+.Title p {
+    color: grey;
+  }
+  
+  .details p {
+    color: grey;
+  }
