@@ -44,8 +44,8 @@ table{
 
 .Title {
     display: flex; /* Use flexbox */
-    justify-content: space-between; /* Space elements evenly */
-    align-items: center; /* Center items vertically */
+    justify-content: flex-start; /* Align items at the start */
+    align-items: center; 
 }
 
 
