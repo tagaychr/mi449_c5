@@ -1,6 +1,7 @@
 function addDetails() {
     const detailsDiv = document.querySelector('.details');
     if (detailsDiv) {
+        console.log('found');
       const points = Math.floor(Math.random() * 100); // Random points
       const username = 'User'; // Random username
       const hoursAgo = Math.floor(Math.random() * 24); // Random hours ago
