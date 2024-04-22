@@ -46,8 +46,8 @@ table{
     display: flex; /* Use flexbox */
     justify-content: flex-start; /* Align items at the start */
     align-items: center; 
-    margin: 5px 0;
-    padding: 5px;
+    margin: 0px 0;
+    padding: 0px;
 }
 
 
@@ -64,4 +64,9 @@ table{
 .Link {
     margin-left: 10px;  
     padding: 2px 5px;  
+}
+
+.details{
+    margin: 0px 0;
+    padding: 0px;
 }
